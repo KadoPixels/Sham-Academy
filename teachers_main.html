@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="homeworks.css">
+    <script src="assignments.js"></script>
+</head>
+<body>
+    <nav>
+        <h1>Teacher Dashboard</h1>  
+        <a href="welcome.html">Logout</a>
+    </nav>
+
+    <div class="home-container">
+        <h2>Homework Assignments</h2>
+        <button class="btn" onclick="toggleAssignmentForm()">➕ Add Assignment</button>
+        
+        <div id="homework-list"></div>
+    </div>
+
+    <div id="assignment-form" class="assignment-form" style="display: none;">
+        <h3>Add a New Assignment</h3>
+        <input type="text" id="assignment-title" placeholder="Assignment Title">
+        <textarea id="assignment-desc" placeholder="Assignment Description"></textarea>
+        <button class="btn submit-btn" onclick="addAssignment()">Submit</button>
+        <button class="btn cancel-btn" onclick="toggleAssignmentForm()">Cancel</button>
+    </div>
+
+    <!-- Firebase SDK Scripts -->
+    <script src="https://www.gstatic.com/firebasejs/9.1.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.1.2/firebase-firestore.js"></script>
+
+    <!-- Your custom script to handle assignments -->
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome - School Portal</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="welcome-container">
+        <h1>Welcome to the School Portal</h1>
+        <p class="subtext">Select your role to continue</p>
+
+        <div class="role-selection">
+            <div class="role-box" onclick="selectRole('student')">
+                <h2>🎓 Student</h2>
+                <p>Access homework assignments and stay on top of your studies.</p>
+            </div>
+            <div class="role-box" onclick="selectRole('teacher')">
+                <h2>📚 Teacher</h2>
+                <p>Manage assignments and track student progress with ease.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function selectRole(role) {
+            if (role === 'student') {
+                window.location.href = "students_main.html";
+            } else {
+                window.location.href = "login.html";
+            }
+        }
+    </script>
+</body>
+</html>

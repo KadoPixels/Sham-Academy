@@ -1,0 +1,268 @@
+{
+    "users": [
+      {
+        "username": "teacher1",
+        "password": "pass1",
+        "role": "teacher",
+        "subject": "Subject 1",
+        "class": "Class 1"
+      },
+      {
+        "username": "teacher2",
+        "password": "pass2",
+        "role": "teacher",
+        "subject": "Subject 2",
+        "class": "Class 2"
+      },
+      {
+        "username": "teacher3",
+        "password": "pass3",
+        "role": "teacher",
+        "subject": "Subject 3",
+        "class": "Class 3"
+      },
+      {
+        "username": "teacher4",
+        "password": "pass4",
+        "role": "teacher",
+        "subject": "Subject 4",
+        "class": "Class 4"
+      },
+      {
+        "username": "teacher5",
+        "password": "pass5",
+        "role": "teacher",
+        "subject": "Subject 5",
+        "class": "Class 1"
+      },
+      {
+        "username": "teacher6",
+        "password": "pass6",
+        "role": "teacher",
+        "subject": "Subject 1",
+        "class": "Class 2"
+      },
+      {
+        "username": "teacher7",
+        "password": "pass7",
+        "role": "teacher",
+        "subject": "Subject 2",
+        "class": "Class 3"
+      },
+      {
+        "username": "teacher8",
+        "password": "pass8",
+        "role": "teacher",
+        "subject": "Subject 3",
+        "class": "Class 4"
+      },
+      {
+        "username": "teacher9",
+        "password": "pass9",
+        "role": "teacher",
+        "subject": "Subject 4",
+        "class": "Class 1"
+      },
+      {
+        "username": "teacher10",
+        "password": "pass10",
+        "role": "teacher",
+        "subject": "Subject 5",
+        "class": "Class 2"
+      },
+      {
+        "username": "teacher11",
+        "password": "pass11",
+        "role": "teacher",
+        "subject": "Subject 1",
+        "class": "Class 3"
+      },
+      {
+        "username": "teacher12",
+        "password": "pass12",
+        "role": "teacher",
+        "subject": "Subject 2",
+        "class": "Class 4"
+      },
+      {
+        "username": "teacher13",
+        "password": "pass13",
+        "role": "teacher",
+        "subject": "Subject 3",
+        "class": "Class 1"
+      },
+      {
+        "username": "teacher14",
+        "password": "pass14",
+        "role": "teacher",
+        "subject": "Subject 4",
+        "class": "Class 2"
+      },
+      {
+        "username": "teacher15",
+        "password": "pass15",
+        "role": "teacher",
+        "subject": "Subject 5",
+        "class": "Class 3"
+      },
+      {
+        "username": "teacher16",
+        "password": "pass16",
+        "role": "teacher",
+        "subject": "Subject 1",
+        "class": "Class 4"
+      },
+      {
+        "username": "teacher17",
+        "password": "pass17",
+        "role": "teacher",
+        "subject": "Subject 2",
+        "class": "Class 1"
+      },
+      {
+        "username": "teacher18",
+        "password": "pass18",
+        "role": "teacher",
+        "subject": "Subject 3",
+        "class": "Class 2"
+      },
+      {
+        "username": "teacher19",
+        "password": "pass19",
+        "role": "teacher",
+        "subject": "Subject 4",
+        "class": "Class 3"
+      },
+      {
+        "username": "teacher20",
+        "password": "pass20",
+        "role": "teacher",
+        "subject": "Subject 5",
+        "class": "Class 4"
+      },
+      {
+        "username": "teacher21",
+        "password": "pass21",
+        "role": "teacher",
+        "subject": "Subject 1",
+        "class": "Class 1"
+      },
+      {
+        "username": "teacher22",
+        "password": "pass22",
+        "role": "teacher",
+        "subject": "Subject 2",
+        "class": "Class 2"
+      },
+      {
+        "username": "teacher23",
+        "password": "pass23",
+        "role": "teacher",
+        "subject": "Subject 3",
+        "class": "Class 3"
+      },
+      {
+        "username": "teacher24",
+        "password": "pass24",
+        "role": "teacher",
+        "subject": "Subject 4",
+        "class": "Class 4"
+      },
+      {
+        "username": "teacher25",
+        "password": "pass25",
+        "role": "teacher",
+        "subject": "Subject 5",
+        "class": "Class 1"
+      },
+      {
+        "username": "teacher26",
+        "password": "pass26",
+        "role": "teacher",
+        "subject": "Subject 1",
+        "class": "Class 2"
+      },
+      {
+        "username": "teacher27",
+        "password": "pass27",
+        "role": "teacher",
+        "subject": "Subject 2",
+        "class": "Class 3"
+      },
+      {
+        "username": "teacher28",
+        "password": "pass28",
+        "role": "teacher",
+        "subject": "Subject 3",
+        "class": "Class 4"
+      },
+      {
+        "username": "teacher29",
+        "password": "pass29",
+        "role": "teacher",
+        "subject": "Subject 4",
+        "class": "Class 1"
+      },
+      {
+        "username": "teacher30",
+        "password": "pass30",
+        "role": "teacher",
+        "subject": "Subject 5",
+        "class": "Class 2"
+      },
+      {
+        "username": "teacher31",
+        "password": "pass31",
+        "role": "teacher",
+        "subject": "Subject 1",
+        "class": "Class 3"
+      },
+      {
+        "username": "teacher32",
+        "password": "pass32",
+        "role": "teacher",
+        "subject": "Subject 2",
+        "class": "Class 4"
+      },
+      {
+        "username": "teacher33",
+        "password": "pass33",
+        "role": "teacher",
+        "subject": "Subject 3",
+        "class": "Class 1"
+      },
+      {
+        "username": "teacher34",
+        "password": "pass34",
+        "role": "teacher",
+        "subject": "Subject 4",
+        "class": "Class 2"
+      },
+      {
+        "username": "teacher35",
+        "password": "pass35",
+        "role": "teacher",
+        "subject": "Subject 5",
+        "class": "Class 3"
+      },
+  
+      
+      {
+        "username": "student1",
+        "password": "pass1",
+        "role": "student"
+      },
+      {
+        "username": "student2",
+        "password": "pass2",
+        "role": "student"
+      },
+      {
+        "username": "student3",
+        "password": "pass3",
+        "role": "student"
+      }
+      
+    ]
+  }
+  
